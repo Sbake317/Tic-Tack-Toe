@@ -9,23 +9,23 @@
 <TABLE>
   <TBODY>
   <TR>
-    <TD><IMG onclick=squareClick(0); src="Tic Tac Toe_files/blank.gif"></TD>
-    <TD><IMG onclick=squareClick(1); src="Tic Tac Toe_files/blank.gif"></TD>
-    <TD><IMG onclick=squareClick(2); src="Tic Tac Toe_files/blank.gif"></TD></TR>
+    <TD><IMG onclick=squareClick(0); src="https://files.bju.edu/Handlers/Download.ashx/blank.gif?action=view&file=University%2FCourses%2FCPS105%2FClass%2FASG4%20-%20Testing%20and%20Debugging/blank.gif"></TD>
+    <TD><IMG onclick=squareClick(1); src="https://files.bju.edu/Handlers/Download.ashx/blank.gif?action=view&file=University%2FCourses%2FCPS105%2FClass%2FASG4%20-%20Testing%20and%20Debugging/blank.gif"></TD>
+    <TD><IMG onclick=squareClick(2); src="https://files.bju.edu/Handlers/Download.ashx/blank.gif?action=view&file=University%2FCourses%2FCPS105%2FClass%2FASG4%20-%20Testing%20and%20Debugging/blank.gif"></TD></TR>
   <TR>
-    <TD><IMG onclick=squareClick(3); src="Tic Tac Toe_files/blank.gif"></TD>
-    <TD><IMG onclick=squareClick(4); src="Tic Tac Toe_files/blank.gif"></TD>
-    <TD><IMG onclick=squareClick(5); src="Tic Tac Toe_files/blank.gif"></TD></TR>
+    <TD><IMG onclick=squareClick(3); src="https://files.bju.edu/Handlers/Download.ashx/blank.gif?action=view&file=University%2FCourses%2FCPS105%2FClass%2FASG4%20-%20Testing%20and%20Debugging/blank.gif"></TD>
+    <TD><IMG onclick=squareClick(4); src="https://files.bju.edu/Handlers/Download.ashx/blank.gif?action=view&file=University%2FCourses%2FCPS105%2FClass%2FASG4%20-%20Testing%20and%20Debugging/blank.gif"></TD>
+    <TD><IMG onclick=squareClick(5); src="https://files.bju.edu/Handlers/Download.ashx/blank.gif?action=view&file=University%2FCourses%2FCPS105%2FClass%2FASG4%20-%20Testing%20and%20Debugging/blank.gif"></TD></TR>
   <TR>
-    <TD><IMG onclick=squareClick(6); src="Tic Tac Toe_files/blank.gif"></TD>
-    <TD><IMG onclick=squareClick(7); src="Tic Tac Toe_files/blank.gif"></TD>
+    <TD><IMG onclick=squareClick(6); src="https://files.bju.edu/Handlers/Download.ashx/blank.gif?action=view&file=University%2FCourses%2FCPS105%2FClass%2FASG4%20-%20Testing%20and%20Debugging/blank.gif"></TD>
+    <TD><IMG onclick=squareClick(7); src="https://files.bju.edu/Handlers/Download.ashx/blank.gif?action=view&file=University%2FCourses%2FCPS105%2FClass%2FASG4%20-%20Testing%20and%20Debugging/blank.gif"></TD>
     <TD><IMG onclick=squareClick(8); 
   src="Tic Tac Toe_files/blank.gif"></TD></TR></TBODY></TABLE>
-<P>It's currently <IMG src="Tic Tac Toe_files/blank.gif" width=25 
+<P>It's currently <IMG src="https://files.bju.edu/Handlers/Download.ashx/blank.gif?action=view&file=University%2FCourses%2FCPS105%2FClass%2FASG4%20-%20Testing%20and%20Debugging/blank.gif" width=25 
 name=whoseTurn>'s turn. 
 <P>
-<FORM name=tttForm><IMG src="Tic Tac Toe_files/o.gif" width=25> has <INPUT 
-size=2 name=xWins> wins.<BR><IMG src="Tic Tac Toe_files/x.gif" width=25> has 
+<FORM name=tttForm><IMG src="https://files.bju.edu/Handlers/Download.ashx/o.gif?action=view&file=University%2FCourses%2FCPS105%2FClass%2FASG4%20-%20Testing%20and%20Debugging/o.gif" width=25> has <INPUT 
+size=2 name=xWins> wins.<BR><IMG src="https://files.bju.edu/Handlers/Download.ashx/x.gif?action=view&file=University%2FCourses%2FCPS105%2FClass%2FASG4%20-%20Testing%20and%20Debugging/x.gif" width=25> has 
 <INPUT size=2 name=oWins> wins.<BR>
 <P><INPUT onclick=restartGame(); type=button value="Restart Current Game"> <INPUT onclick=resetCounters(); type=button value="Reset Win Counters"> </FORM>
 <P>
